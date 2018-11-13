@@ -1,9 +1,15 @@
 This is a recipe project written in Visual Code Studio
+Load the project using npm start
 
+The recipe is grabbed from an external API
 
+You are able to search for reipes by typing in ex: "soup, meatballs, etc..." in the search engine
 
+Recipes are available by clicking the "click here" link after clicking the search button, which will take you to the recipe page using react-router
 
+The home page takes you back home to a refreshed page for your next search
 
+instructions below for NPM
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
