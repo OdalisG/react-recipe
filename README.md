@@ -1,4 +1,5 @@
 This is a recipe project written in Visual Code Studio
+
 Load the project using npm start
 
 The recipe is grabbed from an external API
