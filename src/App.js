@@ -5,7 +5,7 @@ import Recipes from "./components/Recipes";
 import "./App.css";
 
 //api key
-const API_KEY = "3e6ff9c064412e0e38b49c226840465a";
+const API_KEY = "3e6ff9c064412e0e3#######";
 
 class App extends Component {
   state = {
